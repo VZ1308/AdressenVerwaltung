@@ -43,8 +43,8 @@ public abstract class Person
     // Konstruktor
     protected Person(string firstName, string lastName)
     {
-        FirstName = firstName; // Hier ist der Fehler behoben
-        LastName = lastName;   // Hier ist der Fehler behoben
+        FirstName = firstName; 
+        LastName = lastName;   
     }
 
     /// <summary>
